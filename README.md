@@ -77,5 +77,5 @@ print(my_list.index(30))
 - **`insert()`** places an element at a specific index.
 - **`extend()`** adds multiple elements from another list.
 - **`pop()`** removes and returns the element at the given index (last by default).
-- **`sort()`** sorts the list in place in ascending order by default.
+- **`sort()`** sorts the list in place in ascending order by default. **POINT TO NOTE** if it was in descending order it would be **sort(reverse=True)**
 - **`index()`** finds the first occurrence of a value and returns its position.
